@@ -8,3 +8,7 @@
 |           Controller        | Metot  |      Adres     |                               Açıklama                               |        
 | :-------------------------: | :----: | :------------: | :------------------------------------------------------------------: |
 |  **EarthquakeController **  |  GET   | /v1/earthquake | Verilen ülke ismi ve güne göre ülkede gerçekleşen depremleri getirir.|
+
+
+![github.small](https://raw.githubusercontent.com/aoserdardemirkol/Earthquake-API/main/images/request.PNG)
+![github.small](https://raw.githubusercontent.com/aoserdardemirkol/Earthquake-API/main/images/response.PNG)
